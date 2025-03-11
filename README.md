@@ -15,7 +15,8 @@ How to use :
 
 Here are some results:
 
-GAME OPENING AFTER OBFUSCATING THE CODE IN TO A GAME FILE :
+GAME OPENING AFTER OBFUSCATING THE CODE IS
+IN TO A GAME FILE :
 
 ![Screenshot 2025-03-11 124027](https://github.com/user-attachments/assets/c49360e7-a9ca-40f8-8cc9-e66d5dfb9be1)
 ![Screenshot 2025-03-11 124116](https://github.com/user-attachments/assets/b7e36793-1601-48af-97ad-dc7d9d22abcc)
